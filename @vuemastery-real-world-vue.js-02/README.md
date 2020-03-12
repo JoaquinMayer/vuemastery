@@ -12,3 +12,8 @@ Lessons:
         b. Vue UI
         c. Create our project
         d. Tour the project
+    3. Optimizing your Editor
+        a. Syntax Highlighting
+        b. Snippets
+        c. Auto-formatting
+        d. Helpful Extensions
