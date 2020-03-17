@@ -26,3 +26,7 @@ Lessons:
         c. Named Routes
         d. Redirecting & Aliasing
         e. Building Example App
+    
+    5. Dynamic Routing & History Modes
+
+    6. Single File Vue Components
